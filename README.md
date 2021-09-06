@@ -1,7 +1,9 @@
 # Favicon for Plants vs undead website.
 I notice the website doesn't have a favicon so I made two. 
-I really like the game, I'm not expecting anything anything in return, but I will leave the wallet anyways.
+I really like the game, I'm not expecting anything in return, but I will leave the wallet anyways.
 
+**BNB wallet**
+0x65a64d4c7B5BeE54be681ca8b10E186718Be2fE6
 
 ### Clover
 ![clover](assets/pvuclover.png)
@@ -10,7 +12,7 @@ I really like the game, I'm not expecting anything anything in return, but I wil
 
 
 # Setup
-### The website is awesome, of course you dont need me to explain how to add a favicon
+### The website is awesome, of course you don't need me to explain how to add a favicon.
 ### Here's the explanation anyways.
 
 
@@ -25,7 +27,7 @@ Place the files in the root directory of your website.
 - site.webmanifest
 
 
-Next, copy the following link tags and paste them into the head of your HTML.
+Next, copy the following link tags and paste them into the **head** of your HTML.
 
 ```
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
