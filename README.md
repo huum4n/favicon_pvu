@@ -1,4 +1,4 @@
-# Favicon for Plants vs undead website.
+# Favicon for Plants vs Undead website.
 I notice the website doesn't have a favicon so I made two. 
 I really like the game, I'm not expecting anything in return, but I will leave the wallet anyways.
 
